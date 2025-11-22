@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Mahasiswa Informatika yang suka eksplor AI, backend, dan sistem terdistribusi  
-- 🌱 Sedang belajar: **Machine Learning**, **Python**, **Docker**, **PostgreSQL**  
-- 🔬 Sedang mengerjakan: `nb_spam_email` (Naive Bayes Spam Classifier)  
-- 🎯 Goal: Menjadi Software Engineer yang produktif dan bermanfaat
+- 🎓 Mahasiswa Informatika yang suka eksplor backend, dan sistem terdistribusi  
+- 🌱 Sedang belajar: **PHP**, **SQL**,**Bootstrap**,**CSS**, **Docker**, **PostgreSQL**  
+- 🔬 Sedang mengerjakan: `Pengembangan Fitur Aplikasi Perpustakaan`    
+- 🎯 Goal: Menjadi full stack developer yang produktif dan bermanfaat
 
 ---
 
@@ -33,7 +33,7 @@
 </p>
 
 ---
-## 🤝 Connect With Me
+## Sosial Media
 
 <p>
   <!-- LinkedIn -->
