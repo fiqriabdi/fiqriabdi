@@ -28,25 +28,36 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fiqriabdi&show_icons=true&theme=tokyonight"/>
+<p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fiqriabdi&theme=tokyonight"/>
 </p>
 
 ---
-
-## 🚧 Featured Projects
-
-### 🔹 nb_spam_email — Naive Bayes Spam Classifier  
-Klasifikasi email menggunakan Naive Bayes + SVC.  
-➡️ *Coming soon ke repo!*
-
----
-
 ## 🤝 Connect With Me
+
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <!-- LinkedIn -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
+
+
 
 ---
 
