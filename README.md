@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there 👋, I'm <strong>Fransis</strong></h1>
+<h1 align="center">Hi there 👋, I'm <strong>Fiqri Abdi</strong></h1>
 <h3 align="center">Informatics Student • Learner • Problem Solver</h3>
 
 ---
