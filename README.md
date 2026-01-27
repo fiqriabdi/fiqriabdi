@@ -42,7 +42,7 @@
   </a>
   
   <!-- Instagram -->
-  <a href="https://instagram.com/USERNAME" target="_blank">
+  <a href="https://instagram.com/bliksemqri" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
