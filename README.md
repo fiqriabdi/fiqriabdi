@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-Saya adalah seorang Mahasiswa Informatika di Universitas Teknologi Digital Indonesia (UTDI) sekaligus pengembang perangkat lunak yang antusias. Saya memiliki *passion* dalam membangun aplikasi web yang intuitif dan *user-friendly*. Saya sangat menikmati eksplorasi teknologi *frontend* maupun *backend*, serta selalu terbuka untuk mempelajari *tools* dan *framework* baru. 🎓
+Saya adalah seorang Mahasiswa Informatika di Universitas Teknologi Digital Indonesia (UTDI) sekaligus pengembang perangkat lunak yang antusias. Saya memiliki *passion* dalam membangun aplikasi web yang intuitif dan *user-friendly*. Saya sangat menikmati eksplorasi teknologi *frontend* maupun *backend*, serta selalu terbuka untuk mempelajari *tools* dan *framework* baru. 
 
 - 🌱 Sedang belajar: **PHP**, **SQL**, **Bootstrap**, **CSS**, **Docker**, **PostgreSQL**  
 - 🔬 Selesai mengerjakan: **Pengembangan Fitur Perpanjangan Online untuk Aplikasi Web Perpustakaan** semasa menjabat sebagai *Student Staff* di Lab Perpustakaan UTDI.
